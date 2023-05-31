@@ -20,10 +20,11 @@ There is also a Jupyter notebook with python examples of using restconf, so the 
 All Usernames: admin
 All Passwords: C1sco12345
 
-Yangsuite
+Yangsuite (when in via VPN)
 https://198.18.133.100:8443/
 
-![image](https://user-images.githubusercontent.com/32154829/226479007-81765626-8055-4240-b41d-7627fb0ecc72.png)
+![image](https://github.com/will0129/dcloud-YangSuite/assets/32154829/2aa415d0-855b-44f0-b5a1-84987df1fcbe)
+
 
 
 ## Using the lab
