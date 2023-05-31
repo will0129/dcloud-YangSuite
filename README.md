@@ -33,6 +33,10 @@ Schedule the Dcloud instance with your Cisco technical team. they can share the 
 
 Note the c9kv Virtual machine is not, always performant or stable. There is no production use case for it (since c8kv is by design software intended, c9k is hardware optimized), so it was never made production ready. It was working and the yang models were cloned, but it may not always work and future iterations will likely have a better build. 
 
+sometimes you can ping it from another device and it may just start responding. its finicky. 
+
+![image](https://github.com/will0129/dcloud-YangSuite/assets/32154829/1c1d6ecb-cbbb-4cba-aec1-237dc51a6b0e)
+
 I prefer, anyconnect method. Where you vpn into the environment and run RDP locally from your machine. You can also do web RDP. Both examples are expanded on below...
 
 To connect via anyconnect use the info and anyconnect info to the left.
