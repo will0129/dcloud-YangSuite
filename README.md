@@ -5,11 +5,11 @@
 The Dcloud Yangsuite lab is an environment with a prebuilt and integrated Yangsuite system so that people can evaluate yangsuite. It can be used for teams that cannot install yangsuite in their corporate environment due to controls in place, or who do not have an appropriate backend (routes/switches) to evaluate yangsuite against. 
 
 It includes a prebuilt yangsuite and the below devices
-c8kv
-c9kv
-CSR
-IOS-XR Virtual router
-NX-OS Virtual device
+* c8kv
+* c9kv
+* CSR
+* IOS-XR Virtual router
+* NX-OS Virtual device
 
 All devices except the CSR are preconfigured into Yangsuite, the CSR is not currently loaded because (1) there is already an IOS_XE device and (2) this allows users to evaluate the workflow of onboarding a device into yangsuite.
 
